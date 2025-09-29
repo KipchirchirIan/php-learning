@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "telephone": "+254720123456",
+        "email": "j.doe@mail.com"
+    },
+    {
+        "name": "Ian",
+        "telephone": "+254721123123",
+        "email": "ian@mail.com"
+    },
+    {
+        "name": "John Doe",
+        "telephone": "+254720123456",
+        "email": "j.doe@mail.com"
+    },
+    {
+        "name": "Ian",
+        "telephone": "+254721123123",
+        "email": "ian@mail.com"
+    }
+]

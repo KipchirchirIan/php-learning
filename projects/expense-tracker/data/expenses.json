@@ -1,0 +1,130 @@
+[
+    {
+        "amount": 100,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/01\/2025"
+    },
+    {
+        "amount": 150,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/02\/2025"
+    },
+    {
+        "amount": 35,
+        "category": {
+            "name": "clothing",
+            "key": "c1"
+        },
+        "date": "09\/03\/2025"
+    },
+    {
+        "amount": 100,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/01\/2025"
+    },
+    {
+        "amount": 150,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/02\/2025"
+    },
+    {
+        "amount": 35,
+        "category": {
+            "name": "clothing",
+            "key": "c1"
+        },
+        "date": "09\/03\/2025"
+    },
+    {
+        "amount": 100,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/01\/2025"
+    },
+    {
+        "amount": 150,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/02\/2025"
+    },
+    {
+        "amount": 35,
+        "category": {
+            "name": "clothing",
+            "key": "c1"
+        },
+        "date": "09\/03\/2025"
+    },
+    {
+        "amount": 100,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/01\/2025"
+    },
+    {
+        "amount": 150,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/02\/2025"
+    },
+    {
+        "amount": 35,
+        "category": {
+            "name": "clothing",
+            "key": "c1"
+        },
+        "date": "09\/03\/2025"
+    },
+    {
+        "amount": 100,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/01\/2025"
+    },
+    {
+        "amount": 150,
+        "category": {
+            "name": "food",
+            "key": "f1"
+        },
+        "date": "09\/02\/2025"
+    },
+    {
+        "amount": 35,
+        "category": {
+            "name": "clothing",
+            "key": "c1"
+        },
+        "date": "09\/03\/2025"
+    },
+    {
+        "amount": 75,
+        "category": {
+            "name": "Misc",
+            "key": "m1"
+        },
+        "date": "09\/03\/2025"
+    }
+]
